@@ -1,0 +1,5 @@
+lead_quartile,min_lead_days,max_lead_days,total_appointments,no_show_rate_pct
+1,0,3,3774,15.63
+2,4,7,2749,16.92
+3,8,13,2739,20.08
+4,14,60,2702,28.39

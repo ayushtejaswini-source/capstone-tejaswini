@@ -1,0 +1,17 @@
+# secrets — never commit these
+.env
+.env.*
+!.env.example
+*.key
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/

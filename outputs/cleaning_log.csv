@@ -1,0 +1,4 @@
+step,rows_before,rows_after,note
+Drop exact duplicate rows,12180,12000,same booking exported twice
+Fix invalid / missing age,12000,12000,201 values set to median age 37
+Drop appointment before booking date,12000,11964,impossible date order

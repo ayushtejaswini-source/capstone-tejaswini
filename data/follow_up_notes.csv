@@ -1,0 +1,41 @@
+note_id,appointment_id,call_date,note_text
+N001,1000783,2026-10-25,Pt says the extreme heat made her avoid travelling in the afternoon. Wants an early morning slot next time.
+N002,1004878,2026-10-12,"Spoke to pt - auto-rickshaw never showed up and the metro was down. Apologetic, would like to rebook this week."
+N003,1009978,2026-10-24,"Patient's father had a medical emergency, so they rushed to the hospital. Very stressed. Rebook later this month."
+N004,1000291,2026-10-04,"Patient did not give a clear reason, call was short. Did not ask to rebook."
+N005,1005413,2026-10-10,Patient got pulled into an urgent meeting at the office and could not leave. Asked for an evening slot after 6pm.
+N006,1000801,2026-10-12,Patient says symptoms went away on their own so they did not come. No need to rebook for now.
+N007,1004342,2026-10-23,"Pt stuck in heavy traffic after a road accident near the clinic, gave up and went home. OK to rebook any time."
+N008,1010176,2026-10-16,Pt had a death in the family and travelled out of town. Will contact us when back.
+N009,1009154,2026-10-08,"Patient worried about the consultation fee and unsure if insurance covers it. Upset, wants cost explained before rebooking."
+N010,1000966,2026-10-15,"Called patient, he mixed up the date with another day. Embarrassed, wants to reschedule soon."
+N011,1002844,2026-10-21,Pt had a death in the family and travelled out of town. Will contact us when back.
+N012,1004998,2026-10-10,"Pt stuck in heavy traffic after a road accident near the clinic, gave up and went home. OK to rebook any time."
+N013,1005996,2026-10-18,"Patient did not give a clear reason, call was short. Did not ask to rebook."
+N014,1010501,2026-10-18,"Spoke to pt - auto-rickshaw never showed up and the metro was down. Apologetic, would like to rebook this week."
+N015,1006865,2026-10-16,Mother had no one to look after the kids and could not bring them along. Asked for a Saturday morning slot.
+N016,1010286,2026-10-09,"Called - patient on a work trip, forgot to cancel. Will let us know when back, no rebooking right now."
+N017,1009107,2026-10-27,Pt says she lost track of the date. No SMS noticed. Wants us to call a day before next time. Afternoons preferred.
+N018,1008485,2026-10-27,Patient says symptoms went away on their own so they did not come. No need to rebook for now.
+N019,1011345,2026-10-09,"Pt down with flu and body ache that morning. Will rebook once recovered, maybe next week afternoon."
+N020,1006890,2026-10-17,Patient got pulled into an urgent meeting at the office and could not leave. Asked for an evening slot after 6pm.
+N021,1000336,2026-10-01,"Patient simply forgot about the appointment, did not see the reminder. Very sorry. Rebook for next week please."
+N022,1010823,2026-10-27,"Called - patient on a work trip, forgot to cancel. Will let us know when back, no rebooking right now."
+N023,1001684,2026-10-24,"Spoke to pt - auto-rickshaw never showed up and the metro was down. Apologetic, would like to rebook this week."
+N024,1008643,2026-10-27,Patient says symptoms went away on their own so they did not come. No need to rebook for now.
+N025,1006359,2026-10-07,Pt says she lost track of the date. No SMS noticed. Wants us to call a day before next time. Afternoons preferred.
+N026,1000520,2026-10-09,"Patient simply forgot about the appointment, did not see the reminder. Very sorry. Rebook for next week please."
+N027,1007062,2026-10-06,"Unable to reach patient, voicemail left. No information on why they missed the appointment."
+N028,1009108,2026-10-24,"Patient's father had a medical emergency, so they rushed to the hospital. Very stressed. Rebook later this month."
+N029,1009326,2026-10-24,Patient says symptoms went away on their own so they did not come. No need to rebook for now.
+N030,1011250,2026-10-26,"Called patient, he mixed up the date with another day. Embarrassed, wants to reschedule soon."
+N031,1000322,2026-10-23,"Called patient, he mixed up the date with another day. Embarrassed, wants to reschedule soon."
+N032,1006464,2026-10-06,Mother had no one to look after the kids and could not bring them along. Asked for a Saturday morning slot.
+N033,1002680,2026-10-08,Pt says she lost track of the date. No SMS noticed. Wants us to call a day before next time. Afternoons preferred.
+N034,1010099,2026-10-18,Patient says symptoms went away on their own so they did not come. No need to rebook for now.
+N035,1000893,2026-10-21,Pt says the extreme heat made her avoid travelling in the afternoon. Wants an early morning slot next time.
+N036,1007036,2026-10-08,"Pt down with flu and body ache that morning. Will rebook once recovered, maybe next week afternoon."
+N037,1007931,2026-10-23,"Called patient. Says the bus strike meant no way to reach the clinic. Wants a new slot, mornings are best."
+N038,1008741,2026-10-22,"Spoke with pt: boss refused leave that day. Frustrated, says clinic hours do not suit working people. Needs a weekend slot."
+N039,1004119,2026-10-22,Pt says she lost track of the date. No SMS noticed. Wants us to call a day before next time. Afternoons preferred.
+N040,1001632,2026-10-25,"Spoke with pt: boss refused leave that day. Frustrated, says clinic hours do not suit working people. Needs a weekend slot."
