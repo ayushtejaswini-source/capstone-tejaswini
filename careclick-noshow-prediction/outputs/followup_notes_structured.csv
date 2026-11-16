@@ -1,0 +1,11 @@
+note_id,appointment_id,primary_reason,wants_to_reschedule,preferred_time,patient_sentiment,urgent_medical_concern,summary,extraction_source
+N001,1000783,weather,True,morning,neutral,False,Missed visit due to weather; wants to rebook (morning).,rule_based_fallback
+N002,1004878,transport,True,no_preference,neutral,False,Missed visit due to transport; wants to rebook.,rule_based_fallback
+N003,1009978,family_emergency,True,no_preference,negative,False,Missed visit due to family emergency; wants to rebook.,rule_based_fallback
+N004,1000291,other_or_unknown,False,no_preference,neutral,False,Missed visit due to other or unknown; not asking to rebook.,rule_based_fallback
+N005,1005413,work_conflict,True,evening,neutral,False,Missed visit due to work conflict; wants to rebook (evening).,rule_based_fallback
+N006,1000801,felt_better,False,no_preference,neutral,False,Missed visit due to felt better; not asking to rebook.,rule_based_fallback
+N007,1004342,transport,True,no_preference,neutral,False,Missed visit due to transport; wants to rebook.,rule_based_fallback
+N008,1010176,family_emergency,False,no_preference,neutral,False,Missed visit due to family emergency; not asking to rebook.,rule_based_fallback
+N009,1009154,cost_or_insurance,True,no_preference,negative,False,Missed visit due to cost or insurance; wants to rebook.,rule_based_fallback
+N010,1000966,forgot,True,no_preference,neutral,False,Missed visit due to forgot; wants to rebook.,rule_based_fallback

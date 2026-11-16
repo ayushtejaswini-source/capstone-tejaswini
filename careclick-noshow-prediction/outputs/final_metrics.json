@@ -1,0 +1,41 @@
+{
+  "model": "Logistic Regression",
+  "best_params": {
+    "model__C": "0.1",
+    "model__class_weight": "balanced"
+  },
+  "precision_floor_used_in_tuning": 0.3,
+  "validation_before_tuning": {
+    "accuracy": 0.674,
+    "recall": 0.6147,
+    "precision": 0.3285,
+    "f1": 0.4282,
+    "roc_auc": 0.7141
+  },
+  "validation_after_tuning": {
+    "accuracy": 0.6732,
+    "recall": 0.6168,
+    "precision": 0.3281,
+    "f1": 0.4284,
+    "roc_auc": 0.7138
+  },
+  "test": {
+    "accuracy": 0.7025,
+    "recall": 0.6181,
+    "precision": 0.3556,
+    "f1": 0.4515,
+    "roc_auc": 0.7317
+  },
+  "test_confusion_matrix": {
+    "tn": 1388,
+    "fp": 531,
+    "fn": 181,
+    "tp": 293
+  },
+  "split_sizes": {
+    "train": 7178,
+    "validation": 2393,
+    "test": 2393
+  },
+  "seed": 42
+}

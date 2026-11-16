@@ -1,0 +1,5 @@
+,accuracy,recall,precision,f1,roc_auc
+Dummy (never predicts a no-show),0.802,0.0,0.0,0.0,0.5
+Logistic Regression,0.674,0.615,0.328,0.428,0.714
+Decision Tree,0.643,0.577,0.296,0.391,0.668
+Random Forest,0.741,0.476,0.379,0.422,0.69
